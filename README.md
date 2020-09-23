@@ -5,7 +5,7 @@
 I'm Gustavo Luigi, I'm a Front-end developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
 <!-- - 🔭 I’m currently working on Laravel websites/systems. -->
-- 🏢 Front-end Developer at [KBRTEC][http://www.kbrtec.com.br/].
+- 🏢 Front-end Developer at [KBRTEC](http://www.kbrtec.com.br/).
 - 🌱 I’m currently learning NodeJS, ReactJS and React Native and JS improvements.
 <!-- - 💬 Ask me about: tech, karate, anime and a little bit about investments. -->
 - 💻 Technologies: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
